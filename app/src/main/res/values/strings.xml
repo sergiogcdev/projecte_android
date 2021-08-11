@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GestionPeliculas</string>
+    <string name="preferences">preferences</string>
+    <string name="email">E-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Entrar</string>
+    <string name="film_url">https://www.abc.es/play/cine/peliculas/</string>
+    <string name="not_empty">E-mail y contraseña no pueden estar vacíos.</string>
+    <string name="inspiration">Inspiración</string>
+    <string name="add">Añadir</string>
+    <string name="create_title">Título</string>
+    <string name="create_year">Año de publicación</string>
+    <string name="create_score">Puntuación</string>
+    <string name="create_url">URL Imagen</string>
+    <string name="btn_save">Guardar</string>
+    <string name="year_error">La puntuación debe ser un número entre 0 y 5.</string>
+    <string name="generic_error">El campo no puede estar vacío.</string>
+    <string name="id_intent">filmId</string>
+    <string name="server_error">Error en el servidor.</string>
+    <string name="remove_film">Borrar</string>
+    <string name="question">¿Estas seguro de borrarlo?</string>
+    <string name="btn_yes">Si</string>
+    <string name="btn_no">No</string>
+</resources>

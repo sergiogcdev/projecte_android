@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FilmManagement</string>
+    <string name="preferences">preferences</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Go</string>
+    <string name="film_url">https://www.abc.es/play/cine/peliculas/</string>
+    <string name="not_empty">Email and password cannot be empty.</string>
+    <string name="inspiration">Inspiration</string>
+    <string name="add">Add</string>
+    <string name="create_title">Title</string>
+    <string name="create_year">Year of publishing</string>
+    <string name="create_score">Score</string>
+    <string name="create_url">Image URL</string>
+    <string name="btn_save">Save</string>
+    <string name="year_error">The score must be a number between 0 and 5.</string>
+    <string name="generic_error">The field cannot be empty.</string>
+    <string name="id_intent">filmId</string>
+    <string name="server_error">Server error.</string>
+    <string name="remove_film">Remove</string>
+    <string name="question">¿Are you sure that you want to delete the film?</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+</resources>
